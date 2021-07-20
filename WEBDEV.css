@@ -372,7 +372,7 @@ h1{
     text-decoration-color: #00afdb;
 }
 .sign-up{
-    width: 1650px
+    width: 1650px;
     height: 524px;
     display: flex;
     flex-direction: column;
